@@ -1,0 +1,72 @@
+body{
+   
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+    background-color:#e4F9F5
+    
+}
+h1{
+    color: #668fbf;  
+   margin: 0 auto 0 auto;
+   font-family: cursive;
+   
+}
+h2{
+    color: #668fbf;  
+}
+
+.one{
+    background-color:#e4F9F5;
+    padding:10%;
+    
+    
+}
+.top-cloud{
+    size: 200px;
+    position: absolute;
+    top: 60px;;
+    left:50px;
+}
+.bottom-cloud{
+    position:absolute;
+    right: 60px;
+}
+.mountain{
+    height: 200px;
+}
+.two{
+    background-color:#e4F9F5;
+    margin-bottom: 40px;
+}
+
+.my_image{
+    height: 100px;
+    margin-top: 20px;
+   
+}
+.three{
+    background-color:#e4F9F5;
+}
+.skill{
+    color: #668fbf;  
+    margin-top: 10px;
+ }
+.skill-gif{
+    margin-top: 20px;
+    height: 100px;
+    border-radius: 100px;
+    position: relative;
+    bottom: 60px;
+    left: 100px;
+}
+.unordered-list{
+   position: relative;
+   top: 40px;
+   left: 140px;
+}
+.git{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+  
